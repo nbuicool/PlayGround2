@@ -5,7 +5,7 @@ SheireBegin##{https://play.google.com/store/apps/details?id=com.PlaygroundCompan
 UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.PlaygroundCompanys.MelonHunt}##LastUrlRateUs
 
 UrlFeedBackBegin##{https://play.google.com/store/apps/details?id=com.PlaygroundCompanys.MelonHunt}##LastUrlFeedBack
-UrlSuspendBegin##{", "}##LastUrlSuspend
+UrlSuspendBegin##{https://play.google.com/store/apps/details?id=com.wardenPlaygroundCompanys.wardenicfinal}##LastUrlSuspend
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{false}##LastIsIsuspend;
+IsIsuspendBegin##{true}##LastIsIsuspend;
  IsMoreGameBegin##{false}##LastIsMoreGame 
