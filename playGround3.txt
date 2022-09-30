@@ -7,7 +7,7 @@ UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.wardenPlaygro
 UrlFeedBackBegin##{https://play.google.com/store/apps/details?id=com.wardenPlaygroundCompanys.wardenicfinal}##LastUrlFeedBack
 UrlSuspendBegin##{", "}##LastUrlSuspend
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{true}##LastIsIsuspend;
+IsIsuspendBegin##{false}##LastIsIsuspend;
  IsMoreGameBegin##{false}##LastIsMoreGame 
 
 164020a35
