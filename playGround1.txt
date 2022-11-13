@@ -1,11 +1,11 @@
 //appKey IronSource
 AppKeyBegin##{164015d9d}##LastAppKey
-moregameBegin##{https://play.google.com/store/apps/developer?id=marceldev}##Lastmoregame
-SheireBegin##{https://play.google.com/store/apps/details?id=com.PlaygroundCompanys.MelonHunt}##Sheiregame
-UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.PlaygroundCompanys.MelonHunt}##LastUrlRateUs
+moregameBegin##{}##Lastmoregame
+SheireBegin##{}##Sheiregame
+UrlRateUsBegin##{}##LastUrlRateUs
 
-UrlFeedBackBegin##{https://play.google.com/store/apps/details?id=com.PlaygroundCompanys.MelonHunt}##LastUrlFeedBack
-UrlSuspendBegin##{https://play.google.com/store/apps/details?id=com.wardenPlaygroundCompanys.wardenicfinal}##LastUrlSuspend
+UrlFeedBackBegin##{}##LastUrlFeedBack
+UrlSuspendBegin##{}##LastUrlSuspend
 IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{true}##LastIsIsuspend;
+IsIsuspendBegin##{false}##LastIsIsuspend;
  IsMoreGameBegin##{false}##LastIsMoreGame 
